@@ -18,9 +18,10 @@ Prosess
    <img src="https://github.com/Chioaji/Access-point_/assets/126127582/c44ee037-c331-4929-9b31-ff647b1bbb3a.jpg" width="40%" height="20%">
 
 5. Lalu untuk login awal tinggak memasukkan Username dan Password yang sama yaitu `Admin`
+   
    <img src="https://github.com/Chioaji/Access-point_/assets/126127582/2dc2c4c8-a110-4006-90ba-66f078988c95" width="40%" height="20%">
 
-6. jika berhasil login  kita masuk ke bagian Wireless dan pilih wireless security untuk setting nama acces point dan passwordnya
+7. jika berhasil login  kita masuk ke bagian Wireless dan pilih wireless security untuk setting nama acces point dan passwordnya
    
    <img src="https://github.com/Chioaji/Access-point_/assets/126127582/46a73376-a862-45f6-a8d6-d1a6d9a6801f" width="40%" height="20%">
 
